@@ -53,4 +53,6 @@ Task Oriented Databases -> 1) Key-Value stores 2) Document Stores 3) Column-Fami
 
 * One of the key performance characteristics of the graph database is - as soon as you "grab" a starting node, the database will only explore the vicinity of that starting node and will be completely oblivious to anything that is not connected to the starting node.
 
-* Page 56 of 222
+* ETL - Extract, Transfer & Load
+
+* Use cases for which Graph Databases are not the best option - 1) Large data with 'set' oriented queries - A traditional RDBMS structure is the best fit| 2) Simple queries with read-write patterns, aggregation etc would be best suited for a key-value store or a document store.
