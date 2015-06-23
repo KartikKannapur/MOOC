@@ -30,10 +30,17 @@
 
 
 
+######Typical Use Cases for Neo4j
+
+* Complex 'Join' operations | Path finding queries - Does the path exist ? What is the most optimal way for traversal ?(lowest cost operation)
 
 
 
+######Working with Neo4j
 
+* Starting Neo4j - '$ bin/neo4j start'
+
+* 'Graph as a service solution' to install Neo4j on any Cloud Service - Heroku, AWS etc. - GrapheneDB.
 
 
 
