@@ -22,6 +22,18 @@
 
 * Although Neo4j is typically a OTLP solution, it can also be used for OLAP tasks, albeit its slower performance. A suitable solution would be to run two different instances of Neo4j, one for OLTP & the other for OLAP; to keep them independent from one another.
 
-* Neo4j is inherently designed for scalability - 
+* Neo4j is inherently designed for scalability (fault tolerant systems) - The clustering solution that Neo4j offers is a Master-Slave solution. Each server instance of a particular cluster will - 1) Hold the entire dataset of the database, so that any server can kick-in and respond to a query, | 2) Comply with the Master-Slave scheme - in case of any conflict in the data within the clusters/servers in the database, the Master server instance will decide which data is the correct data, to keep and persist. (In case the Master dies, the remaining members would run a 'Master Election Algorithm' & select a new Master) | 3) The Load balancer would be configured such that, particular types of queries - run on/are optimized for particular clusters (cache mechanism is also present on respective servers)
 
-Page 65 of 222
+* Neo4j's clustering solution allows for - Horizontal & Vertical Scalability
+
+* Cypher - Neo4j's declarative query language (declarative is better as compared to imperative languages)
+
+
+
+
+
+
+
+
+
+
