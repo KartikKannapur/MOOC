@@ -12,7 +12,7 @@ Requirements : Neo4j Community Edition, Java7 or above
 
 * A graph is a mathematical representation of two or more entities, connected by a relationship.
 
-
+* Eg : Social Networks - Facebook, Google+ etc, LinkedIn(Professional Network), PayPal/ebay - Financial Network, Google - Page Rank Algo - Search Engines (Knowledge Graph)
 
 ######Components of a Graph :
 
@@ -27,3 +27,7 @@ Requirements : Neo4j Community Edition, Java7 or above
 
 * The study of Graph Models & Algorithms. Eg: Social Networks, Biological Studies, Computer Science - Graph Computing Engines, Coding - If a change is made to one 'object' in the code, how much of would it affect(dependency analysis algorithms), Flow/Routing Problems, Google's Page Rank Algorithm.
 
+
+* Traditional RDBMS Example - NorthWind Case Study : The Foreign Keys help us connect/join data between tables.
+
+* To Convert a RDBMS Architecture into a Graph Architecture - 1) Data Transfer - Export all data as CSV & then import CSVs into Neo4j | 2) Primary/Foreign Keys in a table are converted into the names of a table | 3) The 'join' operation, between Foreign Keys are converted into Relationships with some data properties.
