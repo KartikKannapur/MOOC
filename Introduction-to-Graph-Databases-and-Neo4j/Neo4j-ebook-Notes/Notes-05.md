@@ -1,7 +1,7 @@
 ## Learning Neo4j - Ebook by PacktPub
 -------------------------------------
 
-####Chapter 4 : Importing Data into Neo4j
+####Chapter 5 : Importing Data into Neo4j
 ------------------------------------------
 
 * Importing unconnected data/data structures is always simpler, than importing connected, and more so Graph Connected data, into a graph database such as Neo4j.
