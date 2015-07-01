@@ -7,8 +7,8 @@ Data Scientists Toolbox
 
 * Directories - root(/) ; home(~)
 
-*
+* CRAN - Comprehensive R Archive Network
 
+* Installing R Packages - All Packages : available.packages()
 
-
-Lesson : 2 - 4
+* RTools - Building R Packages
