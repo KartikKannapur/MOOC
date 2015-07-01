@@ -14,6 +14,11 @@
 
 * Software Required : R Programming Langauge | R Studio (IDE for R) | R Markdown | Git & GitHub | Shell/Bash
 
+* Cleaning data - Raw vs Processed data
+
+* R Packages - http://cran.r-project.org/
+
+
 
 
 ###### Useful R Functions
@@ -23,7 +28,3 @@
 * > rnorm
 
 
-
-
-
-Lecture 1 - 4
