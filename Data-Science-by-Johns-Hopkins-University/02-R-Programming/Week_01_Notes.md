@@ -18,7 +18,25 @@ Freedom's of Free Software : Use the program as you like | Modify the program to
 
 * 4000+ R Packages/Libraries on CRAN
 
-* 
+* At the R Prompt we type expressions.
+
+* Everything in R is an object.
+
+* Atomic Data Types in R - char, int, complex numbers, logical/boolean.
+
+* Infinity in R is represented by Inf (-Inf exists as well)
+
+* Lists - Contain elements of different classes.
+
+* Factors - Used to represent categorical data i.e things which can be seperated via a Label. 
+
+* NA & NaN values in R : To Check - is.na(), is.nan() - missing value
+
+* Data Frame - Tabular data - Special type of list, where every column has the same length (need not be the same class/type)
+
+* Matrices have to store the same type() or class() of element in the entire matrix. Data Frames do not have this constraint.
+
+* R objects can also have names.
 
 
 
@@ -27,7 +45,3 @@ Freedom's of Free Software : Use the program as you like | Modify the program to
 
 
 
-
-
-
-Lesson : 2 - 4
