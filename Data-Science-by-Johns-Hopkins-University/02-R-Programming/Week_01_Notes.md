@@ -38,6 +38,7 @@ Freedom's of Free Software : Use the program as you like | Modify the program to
 
 * R objects can also have names.
 
+* Calculating Memory Requirements - (No. of Rows) * (No. of Columns) * 8bytes
 
 
 
@@ -45,3 +46,4 @@ Freedom's of Free Software : Use the program as you like | Modify the program to
 
 
 
+Lesson 2 - 15
