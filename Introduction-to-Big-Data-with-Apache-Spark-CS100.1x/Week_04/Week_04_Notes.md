@@ -34,7 +34,11 @@
 
 * Spark is better than Storm for Data Streaming.
 
-* 
+* Deploying Spark - Standalone Mode | YARN | Mesos
+
+* Spark Transformations - map() | filter() | distinct() | flatMap() 
+
+
 
 
 
@@ -51,3 +55,28 @@
 
 * Pig & Hive internally generate multiple MapReduce() jobs.
 
+
+
+
+
+
+##### Python :
+
+* Lambda Functions -> my_func_name = lambda x:x**2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RESUME : 4_8

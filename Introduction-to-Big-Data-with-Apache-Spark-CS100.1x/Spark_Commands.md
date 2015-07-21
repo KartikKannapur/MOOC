@@ -8,4 +8,6 @@
 
 * 'SparkContext' Object can be accessed via - $ sc
 
-* 
+* Directory where Spark is installed : $ echo $SPARK_HOME  
+
+*
