@@ -40,8 +40,13 @@
 
 
 
+##### Spark Internals:
 
+* Core Components - Execution Model, The Shuffle, Caching(In-memory).
 
+* Execution Model : 1. Create a Directed Acyclic Graph(DAG) of RDDs to represent the computation | 2. Create a Logical Execution Plan for DAG | 3. Schedule & Execute Individual Tasks.
+
+* 
 
 
 
