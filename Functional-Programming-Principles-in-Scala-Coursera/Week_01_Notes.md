@@ -53,6 +53,10 @@ Int, Double, Boolean
 
 * Substitution Model - Evaluate & Reduce an expression to a value
 
+* Semi-colon inference in Scala - ';' - Infers that the end of a line would contain a semi-colon.
+
+* 
+
 
 
   
